@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "send_MultiCast_01", "send_MultiCast_01\send_MultiCast_01.vcxproj", "{254A424A-46F4-4E9B-A63D-336837644C0B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "receive_multicast_01", "receive_multicast_01\receive_multicast_01.vcxproj", "{D9810006-C9CD-426D-B6CB-977852187DE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{254A424A-46F4-4E9B-A63D-336837644C0B}.Debug|x64.ActiveCfg = Release|x64
+		{254A424A-46F4-4E9B-A63D-336837644C0B}.Debug|x64.Build.0 = Release|x64
+		{254A424A-46F4-4E9B-A63D-336837644C0B}.Debug|x86.ActiveCfg = Release|x64
+		{254A424A-46F4-4E9B-A63D-336837644C0B}.Debug|x86.Build.0 = Release|x64
+		{254A424A-46F4-4E9B-A63D-336837644C0B}.Release|x64.ActiveCfg = Release|x64
+		{254A424A-46F4-4E9B-A63D-336837644C0B}.Release|x64.Build.0 = Release|x64
+		{254A424A-46F4-4E9B-A63D-336837644C0B}.Release|x86.ActiveCfg = Release|x64
+		{254A424A-46F4-4E9B-A63D-336837644C0B}.Release|x86.Build.0 = Release|x64
+		{D9810006-C9CD-426D-B6CB-977852187DE7}.Debug|x64.ActiveCfg = Release|x64
+		{D9810006-C9CD-426D-B6CB-977852187DE7}.Debug|x64.Build.0 = Release|x64
+		{D9810006-C9CD-426D-B6CB-977852187DE7}.Debug|x86.ActiveCfg = Release|x64
+		{D9810006-C9CD-426D-B6CB-977852187DE7}.Debug|x86.Build.0 = Release|x64
+		{D9810006-C9CD-426D-B6CB-977852187DE7}.Release|x64.ActiveCfg = Release|x64
+		{D9810006-C9CD-426D-B6CB-977852187DE7}.Release|x64.Build.0 = Release|x64
+		{D9810006-C9CD-426D-B6CB-977852187DE7}.Release|x86.ActiveCfg = Release|x64
+		{D9810006-C9CD-426D-B6CB-977852187DE7}.Release|x86.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
